@@ -3,7 +3,7 @@
 Authors: Nozomi Nakajima, Haeil Jung, Menno Pradhan, Amer Hasan, Anegla Kinnell, and Sally Brinkman
 
 ## Overview:
-This repository contains data and code to replicate the analysis in the paper: Nakajima, Nozomi, Haeil Jung, Menno Pradhan, Amer Hsan, Angela Kinnell & Sally Brinkman. (2019). “Gender Gaps in Cognitive and Social-emotional Skills in Early Primary Grades: Evidence from Rural Indonesia”. **Developmental Science**.
+This repository contains data and code to replicate the analysis in the paper: Nakajima, Nozomi, Haeil Jung, Menno Pradhan, Amer Hsan, Angela Kinnell & Sally Brinkman. (2019). “Gender Gaps in Cognitive and Social-emotional Skills in Early Primary Grades: Evidence from Rural Indonesia”. *Developmental Science*.
 
 ## Dataset
 The dataset used for the analysis are:
